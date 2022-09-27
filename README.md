@@ -27,7 +27,7 @@
 
 ### :man_technologist: About Me :
 I am a Front end Developer.
-- :telescope: I’m working as a web developer at Agrofeed NG and contributing to frontend for building web applications.
+- :telescope: I work as a web developer at Agrofeed NG and contributing to frontend for building web applications.
 
 - :seedling: Exploring both frontend and backend development.
 

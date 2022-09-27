@@ -27,11 +27,11 @@
 
 ### :man_technologist: About Me :
 I am a Front end Developer.
-- :telescope: I work as a web developer at Agrofeed NG and contributing to frontend for building web applications.
+- :telescope: I work as a web developer at Agrofeed NG and contribute to frontend for building web applications.
 
 - :seedling: Exploring both frontend and backend development.
 
-- :zap: In my free time, I build webapp projects.
+- :zap: In my free time, I build projects.
 
 - :mailbox:How to reach me: [![Twitter Badge](https://img.shields.io/badge/-khalteck-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/khalteck) [![Linkedin Badge](https://img.shields.io/badge/-khalid-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/khalid-oyeneye/)
 

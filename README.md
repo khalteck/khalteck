@@ -27,11 +27,11 @@
 
 ### :man_technologist: About Me :
 I am a Front end Developer.
-- :telescope: I work as a front-end software developer at Iroko Events International, HU and contribute to frontend for building web applications.
+- :telescope: I work remotely as a React developer at 18040 & Company
 
 - :seedling: Exploring both frontend and backend development.
 
-- :zap: When i'm not coding, i'm either playing football, running or eating!
+- :zap: When i'm not coding, i'm either playing football or eating!
 
 - :mailbox:How to reach me: [![Twitter Badge](https://img.shields.io/badge/-khalteck-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/khalteck) [![Linkedin Badge](https://img.shields.io/badge/-khalid-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/khalid-oyeneye/)
 

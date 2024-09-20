@@ -27,7 +27,7 @@
 
 ### :man_technologist: About Me :
 I am a Front end Developer.
-- :telescope: I work remotely as a React developer at 18040 & Company
+- :telescope: I work remotely as a React developer at 18040 & Company, Kansas USA.
 
 - :seedling: Exploring both frontend and backend development.
 

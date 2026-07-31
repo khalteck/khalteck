@@ -138,12 +138,12 @@ When I am not writing code, I am usually playing football, following Chelsea or 
 
 <p align="center">
   <img
-    width="49%"
+    width="30%"
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=khalteck&theme=github_dark"
     alt="Repositories by language"
   />
   <img
-    width="49%"
+    width="30%"
     src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=khalteck&theme=github_dark"
     alt="Most committed languages"
   />
@@ -151,12 +151,12 @@ When I am not writing code, I am usually playing football, following Chelsea or 
 
 <p align="center">
   <img
-    width="49%"
+    width="30%"
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=khalteck&theme=github_dark"
     alt="Khalid Oyeneye's GitHub statistics"
   />
   <img
-    width="49%"
+    width="30%"
     src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=khalteck&theme=github_dark&utcOffset=1"
     alt="Khalid Oyeneye's productive coding hours"
   />

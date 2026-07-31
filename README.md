@@ -125,6 +125,45 @@ When I am not writing code, I am usually playing football, following Chelsea or 
 
 ---
 
+---
+
+## GitHub Activity
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalteck&layout=compact&hide_border=true" alt="Most used languages" />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khalteck&theme=github_dark"
+    alt="Khalid Oyeneye's GitHub activity overview"
+  />
+</p>
+
+<p align="center">
+  <img
+    width="49%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=khalteck&theme=github_dark"
+    alt="Repositories by language"
+  />
+  <img
+    width="49%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=khalteck&theme=github_dark"
+    alt="Most committed languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    width="49%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=khalteck&theme=github_dark"
+    alt="Khalid Oyeneye's GitHub statistics"
+  />
+  <img
+    width="49%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=khalteck&theme=github_dark&utcOffset=1"
+    alt="Khalid Oyeneye's productive coding hours"
+  />
+</p>
+
+<p align="center">
+  <sub>
+    Language statistics reflect GitHub repository activity and do not represent overall professional proficiency.
+  </sub>
 </p>

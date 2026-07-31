@@ -18,16 +18,16 @@
   <a href="https://www.linkedin.com/in/khalid-oyeneye/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://x.com/khalteck">
+  <!-- <a href="https://x.com/khalteck">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a>
+  </a> -->
 </p>
 
 ---
 
 ## About Me
 
-I am a senior frontend-focused software engineer with over six years of experience building production web applications.
+I am a senior frontend-focused software engineer with over seven years of experience building production web applications.
 
 I currently work remotely with a U.S.-based company, contributing to large-scale products involving recruitment technology, marketplaces, automation, analytics and complex user workflows.
 
@@ -113,7 +113,7 @@ Some of my professional work is private or covered by confidentiality agreements
 
 ## Outside Engineering
 
-When I am not writing code, I am usually playing football, following Chelsea or learning French.
+When I am not writing code, I am usually playing football, following Chelsea or learning stuff.
 
 ---
 
@@ -122,7 +122,6 @@ When I am not writing code, I am usually playing football, following Chelsea or 
 - Portfolio: [khalidoyeneye.dev](https://khalidoyeneye.dev)
 - Resume: [khalidoyeneye.dev/resume](https://khalidoyeneye.dev/resume)
 - LinkedIn: [linkedin.com/in/khalid-oyeneye](https://www.linkedin.com/in/khalid-oyeneye/)
-- X: [x.com/khalteck](https://x.com/khalteck)
 
 ---
 

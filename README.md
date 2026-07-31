@@ -1,57 +1,131 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-<div id="badges" align="center">
-  <a href="https://twitter.com/khalteck">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+<h1 align="center">Khalid Oyeneye</h1>
+
+<h3 align="center">
+  Senior Frontend Engineer · React · TypeScript · Product Engineering
+</h3>
+
+<p align="center">
+  I build scalable, accessible and maintainable web products for distributed teams.
+</p>
+
+<p align="center">
+  <a href="https://khalidoyeneye.dev">
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://wa.me/+2348107327238">
-    <img src="https://img.shields.io/badge/Whatsapp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Youtube Badge"/>
+  <a href="https://khalidoyeneye.dev/resume">
+    <img src="https://img.shields.io/badge/Resume-0A66C2?style=for-the-badge&logo=readme&logoColor=white" alt="Resume" />
   </a>
   <a href="https://www.linkedin.com/in/khalid-oyeneye/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-</div>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=khalteck&style=flat-square&color=blue" alt=""/>
-</div>
-<h1 align="center">
-  Hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-
-<!--<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>-->
----
-
-### :man_technologist: About Me :
-I am a Front end Developer.
-- :telescope: I work remotely as a React developer at 18040 & Company, Kansas USA.
-
-- :seedling: Exploring both frontend and backend development.
-
-- :zap: When i'm not coding, i'm either playing football or eating!
-
-- :mailbox:How to reach me: [![Twitter Badge](https://img.shields.io/badge/-khalteck-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/khalteck) [![Linkedin Badge](https://img.shields.io/badge/-khalid-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/khalid-oyeneye/)
+  <a href="https://x.com/khalteck">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+</p>
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind" alt="Tailwind" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="Git" **alt="Git" width="60" height="60"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" **alt="Firebase" width="60" height="60"/>
-</div>
+## About Me
+
+I am a senior frontend-focused software engineer with over six years of experience building production web applications.
+
+I currently work remotely with a U.S.-based company, contributing to large-scale products involving recruitment technology, marketplaces, automation, analytics and complex user workflows.
+
+My work extends beyond implementing interfaces. I contribute to frontend architecture, technical decision-making, task planning, code reviews, developer mentorship and product delivery.
+
+- Based in Lagos, Nigeria
+- Experienced working with distributed international teams
+- Strong focus on React, TypeScript and scalable frontend architecture
+- Comfortable building full-stack products with Node.js, Express, MongoDB and Firebase
+- Open to long-term remote contract opportunities with global teams
 
 ---
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=khalteck&theme=dark&background=000000)](https://git.io/streak-stats)
+## Core Expertise
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khalteck&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+- Building scalable React and TypeScript applications
+- Frontend architecture and reusable component systems
+- Complex dashboards, forms and multi-step workflows
+- State management and server-state synchronization
+- API integration and full-stack product development
+- Performance, accessibility and responsive design
+- Technical leadership, code reviews and developer mentorship
+- Translating product requirements into maintainable software
 
+---
+
+## Technologies
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css,tailwind,vite" alt="Frontend technologies" />
+</p>
+
+### State, Data and UI
+
+<p>
+  React Query · Redux Toolkit · Zustand · Mantine · Ant Design · Framer Motion
+</p>
+
+### Backend and Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,aws" alt="Backend technologies" />
+</p>
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" alt="Development tools" />
+</p>
+
+---
+
+## Products I Have Worked On
+
+My experience includes building and contributing to:
+
+- Recruitment and applicant-tracking platforms
+- Talent marketplaces and matching systems
+- Analytics dashboards
+- Financial and debt-financing platforms
+- AI-assisted productivity tools
+- Ecommerce and manufacturing platforms
+- Real estate products
+- Ecommerce and digital marketplace applications
+- Learning-management and content platforms
+- Real-time communication applications
+
+Some of my professional work is private or covered by confidentiality agreements. Publicly shareable projects and case studies are available on my portfolio.
+
+---
+
+## Current Focus
+
+- Designing maintainable frontend systems
+- Improving frontend performance and developer experience
+- Building frontend-heavy full-stack products
+- Expanding my backend and system-design expertise
+- Collaborating with remote product and engineering teams
+
+---
+
+## Outside Engineering
+
+When I am not writing code, I am usually playing football, following Chelsea or learning French.
+
+---
+
+## Contact
+
+- Portfolio: [khalidoyeneye.dev](https://khalidoyeneye.dev)
+- Resume: [khalidoyeneye.dev/resume](https://khalidoyeneye.dev/resume)
+- LinkedIn: [linkedin.com/in/khalid-oyeneye](https://www.linkedin.com/in/khalid-oyeneye/)
+- X: [x.com/khalteck](https://x.com/khalteck)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalteck&layout=compact&hide_border=true" alt="Most used languages" />
+</p>
